@@ -1,0 +1,135 @@
+{
+  "version": "0.0.0",
+  "name": "angular-crush",
+  "problems": [
+    "extraneous: __ngcc_entry_points__.json@ /Users/assafbashiri/anguler_to_send/angular-crush/node_modules/__ngcc_entry_points__.json"
+  ],
+  "dependencies": {
+    "__ngcc_entry_points__.json": {
+      "extraneous": true,
+      "problems": [
+        "extraneous: __ngcc_entry_points__.json@ /Users/assafbashiri/anguler_to_send/angular-crush/node_modules/__ngcc_entry_points__.json"
+      ]
+    },
+    "@angular-devkit/build-angular": {
+      "version": "13.3.7",
+      "resolved": "https://registry.npmjs.org/@angular-devkit/build-angular/-/build-angular-13.3.7.tgz"
+    },
+    "@angular/animations": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/animations/-/animations-13.3.10.tgz"
+    },
+    "@angular/cli": {
+      "version": "13.3.7",
+      "resolved": "https://registry.npmjs.org/@angular/cli/-/cli-13.3.7.tgz"
+    },
+    "@angular/common": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/common/-/common-13.3.10.tgz"
+    },
+    "@angular/compiler-cli": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-13.3.10.tgz"
+    },
+    "@angular/compiler": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/compiler/-/compiler-13.3.10.tgz"
+    },
+    "@angular/core": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/core/-/core-13.3.10.tgz"
+    },
+    "@angular/forms": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/forms/-/forms-13.3.10.tgz"
+    },
+    "@angular/platform-browser-dynamic": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-13.3.10.tgz"
+    },
+    "@angular/platform-browser": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-13.3.10.tgz"
+    },
+    "@angular/router": {
+      "version": "13.3.10",
+      "resolved": "https://registry.npmjs.org/@angular/router/-/router-13.3.10.tgz"
+    },
+    "@fortawesome/angular-fontawesome": {
+      "version": "0.10.2",
+      "resolved": "https://registry.npmjs.org/@fortawesome/angular-fontawesome/-/angular-fontawesome-0.10.2.tgz"
+    },
+    "@fortawesome/fontawesome-svg-core": {
+      "version": "1.2.36",
+      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.36.tgz"
+    },
+    "@fortawesome/free-brands-svg-icons": {
+      "version": "5.15.4",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-5.15.4.tgz"
+    },
+    "@fortawesome/free-regular-svg-icons": {
+      "version": "5.15.4",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-5.15.4.tgz"
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "version": "5.15.4",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.15.4.tgz"
+    },
+    "@types/jasmine": {
+      "version": "3.10.6",
+      "resolved": "https://registry.npmjs.org/@types/jasmine/-/jasmine-3.10.6.tgz"
+    },
+    "@types/node": {
+      "version": "12.20.52",
+      "resolved": "https://registry.npmjs.org/@types/node/-/node-12.20.52.tgz"
+    },
+    "cropperjs": {
+      "version": "1.5.9",
+      "resolved": "https://registry.npmjs.org/cropperjs/-/cropperjs-1.5.9.tgz"
+    },
+    "jasmine-core": {
+      "version": "4.0.1",
+      "resolved": "https://registry.npmjs.org/jasmine-core/-/jasmine-core-4.0.1.tgz"
+    },
+    "json-server": {
+      "version": "0.17.0",
+      "resolved": "https://registry.npmjs.org/json-server/-/json-server-0.17.0.tgz"
+    },
+    "karma-chrome-launcher": {
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/karma-chrome-launcher/-/karma-chrome-launcher-3.1.1.tgz"
+    },
+    "karma-coverage": {
+      "version": "2.1.1",
+      "resolved": "https://registry.npmjs.org/karma-coverage/-/karma-coverage-2.1.1.tgz"
+    },
+    "karma-jasmine-html-reporter": {
+      "version": "1.7.0",
+      "resolved": "https://registry.npmjs.org/karma-jasmine-html-reporter/-/karma-jasmine-html-reporter-1.7.0.tgz"
+    },
+    "karma-jasmine": {
+      "version": "4.0.2",
+      "resolved": "https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-4.0.2.tgz"
+    },
+    "karma": {
+      "version": "6.3.20",
+      "resolved": "https://registry.npmjs.org/karma/-/karma-6.3.20.tgz"
+    },
+    "rxjs": {
+      "version": "7.5.5",
+      "resolved": "https://registry.npmjs.org/rxjs/-/rxjs-7.5.5.tgz"
+    },
+    "tslib": {
+      "version": "2.4.0",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
+    },
+    "typescript": {
+      "version": "4.6.4",
+      "resolved": "https://registry.npmjs.org/typescript/-/typescript-4.6.4.tgz"
+    },
+    "zone.js": {
+      "version": "0.11.5",
+      "resolved": "https://registry.npmjs.org/zone.js/-/zone.js-0.11.5.tgz"
+    }
+  }
+}

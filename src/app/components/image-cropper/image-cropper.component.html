@@ -1,0 +1,63 @@
+<!-- <div >
+     <app-button  
+    color="{{showAddImage ? 'red' : 'green'}}" 
+    text="{{showAddImage ? 'Close' : 'Add'}}" 
+    (btnClick)="toggleAddImage()">
+    </app-button>
+    <app-upload 
+    (onAddImage)="uploadImage()" 
+    (onLoadImage)="child.src=($event)">
+
+    </app-upload >
+    <app-canvas #child  src="../../../assets/assaf2.JPG">
+
+    </app-canvas>
+    
+</div> -->
+
+
+
+<!-- <div style="position:absolute ; right:0px;">
+    <button class="button-23" (click)="zooom_in()">+</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="zooom_out()">-</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="rotate_right()">rotate right</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="rotate_left()">rotate left</button>
+    <div class="space"></div>
+
+    <button class="button-23" (click)="up()" >UP</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="down()">DOWN</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="right()">RIGHT</button>
+    <div class="space"></div>
+    <button class="button-23" (click)="left()">LEFT</button>
+</div> -->
+
+
+<head style="background-color: ;">  
+</head> 
+<body id = "body" style = "text-align:center; background-color: aquamarine;"> 
+    <div class="text_headline">
+    <h1>IMAGE PROCCESS FINAL PROJECT</h1>
+</div>
+    
+      
+      
+    <!-- <p id = "GFG_UP" style = 
+            "font-size: 15px; font-weight: bold;"> 
+    </p>  -->
+      
+    <!-- <input type="file" (change)="GFG_Fun($event)" accept="image/*">
+     -->
+     <div style=" background-color: green;">
+        <form name="form1">
+            <input name="in1" type="file" (change)="GFG_Fun($event)" accept="image/*">
+        </form>
+    </div>
+     <div id = 'container' style="border-style: solid;height: 500px;width: 80%;position: absolute;margin-left: 10%;margin-right: 10%; top:100px;" ></div>
+    <!-- <p id = "GFG_DOWN" style = 
+            "color:green; font-size: 20px; font-weight: bold;"> 
+    </p>  -->

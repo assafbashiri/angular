@@ -1,0 +1,13 @@
+<form *ngIf="showAddImage" style="margin: 10px" (ngSubmit)="onSubmit()">
+    <!-- <div>
+        <input type="checkbox" name="localy" [(ngModel)] = "localy" id="localy" />
+        <label>Photo Address</label>
+        <input type="text" placeholder="Add Image"/>
+    </div> -->
+    <div>
+        <input type="checkbox" name="internet" [(ngModel)] = "internet" id="internet" />
+        <label >Photo Address</label>
+        <input type="text" name="address" [(ngModel)] = "address" id="address" placeholder="Add Image"/>
+    </div>
+    <input type="submit" value="Upload photo" class="btn btn-block"/>
+</form>
